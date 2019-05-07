@@ -1,0 +1,45 @@
+.root{
+
+	-fx-background-color: #383838;
+
+}
+
+.label{
+
+    -fx-text-fill: #A1B56C;
+
+}
+
+.button{
+
+	-fx-background-color: #DC9656;
+
+	-fx-text-fill: #282828;
+
+	-fx-background-radius:4;
+
+}
+
+.table{
+
+	-fx-background-color:#28282;
+
+}
+
+.alertbox{
+
+	-fx-background-color:#F8F8F8;
+
+}
+
+#pane{
+
+    -fx-background-image: url("Logo.png");
+
+    -fx-background-repeat: stretch;   
+
+    -fx-background-size: 900 506;
+
+    -fx-background-position: center center;
+
+ }
